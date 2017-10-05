@@ -15,9 +15,9 @@
 	"multipool",
 	"multicoin"
     ],
-    "homepage": "https://github.com/strataspool/unified-node-open-mining-portal",
+    "homepage": "https://github.com/Caberhagen/unified-node-open-mining-portal",
     "bugs": {
-        "url": "https://github.com/strataspool/unified-node-open-mining-portal/issues"
+        "url": "https://github.com/Caberhagen/unified-node-open-mining-portal/issues"
     },
     "license": "GPL-2.0",
     "contributors": [
@@ -36,7 +36,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/strataspool/unified-node-open-mining-portal.git"
+        "url": "https://github.com/Caberhagen/unified-node-open-mining-portal.git"
     },
     "dependencies": {
         "merged-pooler": "git://github.com/Caberhagen/node-stratum-pool",
